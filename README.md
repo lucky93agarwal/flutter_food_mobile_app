@@ -1,5 +1,8 @@
 # flutter_food_mobile_app
 
+Kumquats are on sale this week…but you have no idea what to do with them, how to store them, or what they actually taste like. That’s where Specialty Produce comes in. It gives you all the info you need on unique finds, including popular recipes from food bloggers.
+
+Your weekly trip to the grocery store may never be your favorite thing in the world but, at least with these grocery shopping apps, you’ll be a lot more prepared, a lot more organized and a lot less stressed. And just think: You’ll never have to pay full price for chicken breasts again!
 
 # Screenshot
 
